@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbf3f6f0-161f-43f3-8a88-422169d6ba9e" name="Changes" comment="atualização">
-      <change beforePath="$PROJECT_DIR$/.idea/ProjetoFakePinterest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ProjetoFakePinterest.iml" afterDir="false" />
-    </list>
+    <list default="true" id="fbf3f6f0-161f-43f3-8a88-422169d6ba9e" name="Changes" comment="atualização" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -207,7 +205,7 @@
       <workItem from="1691933796255" duration="502000" />
       <workItem from="1691934608887" duration="1599000" />
       <workItem from="1691936591133" duration="299000" />
-      <workItem from="1691937050780" duration="785000" />
+      <workItem from="1691937050780" duration="1190000" />
     </task>
     <task id="LOCAL-00001" summary="atualização">
       <option name="closed" value="true" />
